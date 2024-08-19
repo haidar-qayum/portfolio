@@ -4,8 +4,8 @@ Hello! I'm Haidar, a passionate data analyst with specific skills in transformin
 
 ## Projects
 
-### Data Science
-- [Project 1](https://github.com/YourUsername/Project1)
+### Python
+- [Project 1](nbviewer.ipython.org/https://github.com/haidar-qayum/PythonProject1)
 - [Project 2](https://github.com/YourUsername/Project2)
 
 ### Excel Projects
