@@ -5,7 +5,7 @@ Hello! I'm Haidar, a passionate data analyst with specific skills in transformin
 ## Projects
 
 ### Python
-- [Analyzing Cardio Vascular Risk Factors](https://nbviewer.org/github/haidar-qayum/PythonProject1/blob/main/Project.ipynb)
+- [Analyzing Cardio Vascular Risk Factors](https://nbviewer.org/github/haidar-qayum/PythonProject1/blob/main/CardiovascularProject.ipynb)
 - Project 2
 
 ### Excel Projects
