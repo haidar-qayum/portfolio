@@ -5,12 +5,19 @@ Hello! I'm Haidar, a passionate data analyst with specific skills in transformin
 ## Projects
 
 ### Python
-- [Project 1](nbviewer.ipython.org/https://github.com/haidar-qayum/PythonProject1)
-- [Project 2](https://github.com/YourUsername/Project2)
+- [Analyzing Cardio Vascular Risk Factors](https://nbviewer.org/github/haidar-qayum/PythonProject1/blob/main/Project.ipynb)
+- Project 2
 
 ### Excel Projects
 - [Analyzing Customer Turnover in Excel](https://github.com/YourUsername/Customer-Turnover-Analysis)
 
-### Web Development
-- [Website 1](https://github.com/YourUsername/Website1)
-- [Website 2](https://github.com/YourUsername/Website2)
+### SQL 
+- Example
+- Example
+
+### Tableau
+- Example
+
+### Power BI
+- Example
+- Example
