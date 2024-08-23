@@ -6,9 +6,9 @@ Hello! I'm Haidar, a passionate data analyst with specific skills in transformin
 
 ### Python
 - [Analyzing Cardio Vascular Risk Factors](https://nbviewer.org/github/haidar-qayum/Python_Project1/blob/main/CardiovascularProject.ipynb)
-- Project 2
 
 ### Excel Projects
+- [Creating a Visually Insightful Dashboard in Excel](https://github.com/haidar-qayum/ExcelDashboard)
 - [Analyzing Customer Turnover in Excel](https://github.com/YourUsername/Customer-Turnover-Analysis)
 
 ### SQL 
