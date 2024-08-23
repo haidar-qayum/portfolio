@@ -6,6 +6,7 @@ Hello! I'm Haidar, a passionate data analyst with specific skills in transformin
 
 ### Python
 - [Analyzing Cardio Vascular Risk Factors](https://nbviewer.org/github/haidar-qayum/Python_Project1/blob/main/CardiovascularProject.ipynb)
+  
 **Summary:**
 Conducted an in-depth analysis of cardiovascular disease risk factors using Python. This project involved cleaning and preprocessing a large medical dataset, performing exploratory data analysis (EDA), and applying statistical techniques to identify key predictors of cardiovascular conditions. Visualizations were created to illustrate findings and support conclusions, providing actionable insights into the prevention and management of cardiovascular diseases.
 
