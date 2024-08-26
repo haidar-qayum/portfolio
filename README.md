@@ -21,29 +21,9 @@ Hello! I'm Haidar, a passionate data analyst with specific skills in transformin
   
 ### Excel
 
-- **[Creating a Visually Insightful Dashboard in Excel](https://github.com/haidar-qayum/ExcelDashboard)**
+- **[Customer Turnover Analysis](https://github.com/haidar-qayum/CustomerTurnover)**
   ![Customer Turnover Dashboard](https://raw.githubusercontent.com/haidar-qayum/CustomerTurnover/main/DashboardChurn.png)
   
-  **Summary:**  
-  Developed a comprehensive sales dashboard using Excel to analyze and visualize sales data over multiple years. The project involved the use of PivotTables, PivotCharts, and Slicers to create an interactive dashboard that allows users to explore sales performance by region, segment, and product category. This project showcases the ability to transform large, unaggregated datasets into clear, actionable insights that support strategic decision-making.
-
-  **Skills Gained:**  
-  <details>
-    <summary>Expand to see skills</summary>
-
-  - **Data Analysis:** Analyzing a large unaggregated dataset to identify key trends and patterns in sales data.
-  - **Excel Proficiency:** Advanced use of Excel features such as PivotTables, PivotCharts, and Slicers for data visualization and interactive reporting.
-  - **Data Visualization:** Creating clear and effective visual representations of data to communicate findings.
-  - **Dashboard Design:** Designing user-friendly dashboards that allow for dynamic data exploration and enhanced decision-making capabilities.
-  - **Attention to Detail:** Ensuring data accuracy and clarity in reports and visualizations.
-  - **Problem-Solving:** Utilizing analytical skills to interpret data and provide actionable insights.
-
-  </details>
-
-### Excel
-
-- **[Customer Turnover Analysis](https://github.com/haidar-qayum/CustomerTurnover)**
-
   **Summary:**  
   This project involved a comprehensive analysis of customer turnover data to uncover key reasons for churn, demographic trends, and the impact of competitors on customer retention. The analysis included data cleaning, exploratory data analysis using pivot tables, and visualizing insights through a detailed dashboard in Excel. The project demonstrated how data-driven strategies can be used to enhance customer retention by identifying critical churn drivers and developing targeted interventions.
 
@@ -63,7 +43,27 @@ Hello! I'm Haidar, a passionate data analyst with specific skills in transformin
 
   </details>
 
+- **[Creating a Visually Insightful Dashboard in Excel](https://github.com/haidar-qayum/ExcelDashboard)**
+  ![Dashboard](https://raw.githubusercontent.com/haidar-qayum/ExcelDashboard/main/Dashboard.png)
+  
+  **Summary:**  
+  Developed a comprehensive sales dashboard using Excel to analyze and visualize sales data over multiple years. The project involved the use of PivotTables, PivotCharts, and Slicers to create an interactive dashboard that allows users to explore sales performance by region, segment, and product category. This project showcases the ability to transform large, unaggregated datasets into clear, actionable insights that support strategic decision-making.
+
+  **Skills Gained:**  
+  <details>
+    <summary>Expand to see skills</summary>
+
+  - **Data Analysis:** Analyzing a large unaggregated dataset to identify key trends and patterns in sales data.
+  - **Excel Proficiency:** Advanced use of Excel features such as PivotTables, PivotCharts, and Slicers for data visualization and interactive reporting.
+  - **Data Visualization:** Creating clear and effective visual representations of data to communicate findings.
+  - **Dashboard Design:** Designing user-friendly dashboards that allow for dynamic data exploration and enhanced decision-making capabilities.
+  - **Attention to Detail:** Ensuring data accuracy and clarity in reports and visualizations.
+  - **Problem-Solving:** Utilizing analytical skills to interpret data and provide actionable insights.
+
+  </details>
+
 - **[Forecasting and Scenario Analysis](https://github.com/haidar-qayum/ExcelForecasting)**
+  ![Forecasting](https://raw.githubusercontent.com/haidar-qayum/ExcelForecasting/main/ScenarioAnalysis.png)
   
   **Summary:**  
   Executed a comprehensive forecasting and scenario analysis project using Excel to predict future sales, identify upsell opportunities, and evaluate the impact of pricing and demand changes on revenue for a subscription-based business. The project utilized advanced Excel functions and tools, including Simple Moving Average, Weighted Moving Average, Exponential Smoothing, Scenario Manager, Goal Seek, and Data Tables to generate actionable insights and support strategic business decisions.
