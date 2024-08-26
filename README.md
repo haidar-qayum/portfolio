@@ -22,6 +22,7 @@ Hello! I'm Haidar, a passionate data analyst with specific skills in transformin
 ### Excel
 
 - **[Creating a Visually Insightful Dashboard in Excel](https://github.com/haidar-qayum/ExcelDashboard)**
+  ![Customer Turnover Dashboard](https://raw.githubusercontent.com/haidar-qayum/CustomerTurnover/main/DashboardChurn.png)
   
   **Summary:**  
   Developed a comprehensive sales dashboard using Excel to analyze and visualize sales data over multiple years. The project involved the use of PivotTables, PivotCharts, and Slicers to create an interactive dashboard that allows users to explore sales performance by region, segment, and product category. This project showcases the ability to transform large, unaggregated datasets into clear, actionable insights that support strategic decision-making.
