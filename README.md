@@ -41,6 +41,27 @@ Hello! I'm Haidar, a passionate data analyst with specific skills in transformin
 
 ### Excel
 
+- **[Customer Turnover Analysis](https://github.com/haidar-qayum/CustomerTurnover)**
+
+  **Summary:**  
+  This project involved a comprehensive analysis of customer turnover data to uncover key reasons for churn, demographic trends, and the impact of competitors on customer retention. The analysis included data cleaning, exploratory data analysis using pivot tables, and visualizing insights through a detailed dashboard in Excel. The project demonstrated how data-driven strategies can be used to enhance customer retention by identifying critical churn drivers and developing targeted interventions.
+
+  **Skills Gained:**  
+  <details>
+    <summary>Expand to see skills</summary>
+
+  - **Data Cleaning and Preparation**: Efficiently handled large datasets by removing duplicates, standardizing formats, and converting raw data into structured tables.
+  - **Advanced Excel Functions**: Gained proficiency in using `IF` statements, nested `IFs`, and other formulas to manipulate and analyze data effectively.
+  - **Pivot Table Analysis**: Developed skills in creating and interpreting pivot tables to explore various dimensions of the data and answer key business questions.
+  - **Data Visualization**: Enhanced ability to create compelling visualizations in Excel that communicate complex data insights clearly and effectively.
+  - **Dashboard Design**: Built a comprehensive dashboard to present findings in a visually engaging and informative way, enhancing stakeholder understanding and decision-making.
+  - **Data-Driven Decision Making**: Learned to derive actionable insights from data analysis, supporting strategic business decisions to reduce customer churn.
+  - **Understanding of Customer Behavior**: Developed a deeper understanding of the factors influencing customer turnover and the dynamics of customer retention strategies.
+  - **Analytical Thinking and Problem Solving**: Strengthened analytical skills and problem-solving abilities by identifying and addressing key drivers of churn.
+  - **Communication of Insights**: Improved skills in communicating data-driven insights to both technical and non-technical stakeholders through visualizations and reports.
+
+  </details>
+
 - **[Forecasting and Scenario Analysis](https://github.com/haidar-qayum/ExcelForecasting)**
   
   **Summary:**  
