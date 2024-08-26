@@ -1,6 +1,7 @@
 # My Portfolio
 
-Hello! I'm Haidar, a passionate data analyst with specific skills in transforming raw data into actionable insights. This portfolio demonstrates a collection of personal projects that showcase my proficiency in SQL, Excel, Tableau, Power BI, and Python. I am constantly updating this repository as I expand and grow my technical skill set for Data Analytics. Feel free to download copies of code and files and interact with various different projects.
+Hello! I'm Haidar, a passionate data analyst with specific skills in transforming raw data into actionable insights. I am currently studying at the University of Reading expecting a First Class Honours in BSc Computer Science. I have a strong background in data analysis and have been a top performer for data related modules. This portfolio demonstrates a collection of personal projects that showcase my proficiency in SQL, Excel, Tableau, Power BI, and Python. I am constantly updating this repository as I expand and grow my technical skill set for Data Analytics. Feel free to download copies of code and files and interact with various different projects.
+
 
 ## Projects
 
@@ -18,10 +19,12 @@ Hello! I'm Haidar, a passionate data analyst with specific skills in transformin
   - List the skills gained from this project here.
 
   </details>
+
+
   
 ### Excel
 
-- **[Customer Turnover Analysis](https://github.com/haidar-qayum/CustomerTurnover)**
+ **[Customer Turnover Analysis](https://github.com/haidar-qayum/CustomerTurnover)**
   ![Customer Turnover Dashboard](https://raw.githubusercontent.com/haidar-qayum/CustomerTurnover/main/DashboardChurn.png)
   
   **Summary:**  
@@ -43,8 +46,9 @@ Hello! I'm Haidar, a passionate data analyst with specific skills in transformin
 
   </details>
 
-- **[Creating a Visually Insightful Dashboard in Excel](https://github.com/haidar-qayum/ExcelDashboard)**
-  ![Dashboard](https://raw.githubusercontent.com/haidar-qayum/ExcelDashboard/main/Dashboard.png)
+
+
+ **[Creating a Visually Insightful Dashboard in Excel](https://github.com/haidar-qayum/ExcelDashboard)**
   
   **Summary:**  
   Developed a comprehensive sales dashboard using Excel to analyze and visualize sales data over multiple years. The project involved the use of PivotTables, PivotCharts, and Slicers to create an interactive dashboard that allows users to explore sales performance by region, segment, and product category. This project showcases the ability to transform large, unaggregated datasets into clear, actionable insights that support strategic decision-making.
@@ -62,7 +66,9 @@ Hello! I'm Haidar, a passionate data analyst with specific skills in transformin
 
   </details>
 
-- **[Forecasting and Scenario Analysis](https://github.com/haidar-qayum/ExcelForecasting)**
+
+
+  **[Forecasting and Scenario Analysis](https://github.com/haidar-qayum/ExcelForecasting)**
   ![Forecasting](https://raw.githubusercontent.com/haidar-qayum/ExcelForecasting/main/ScenarioAnalysis.png)
   
   **Summary:**  
