@@ -63,8 +63,6 @@ Hello! I'm Haidar, a passionate data analyst with expertise in transforming raw 
    </details>
 
 3. **[Forecasting and Scenario Analysis](https://github.com/haidar-qayum/ExcelForecasting)**
-
-   ![Forecasting](https://raw.githubusercontent.com/haidar-qayum/ExcelForecasting/main/ScenarioAnalysis.png)
   
    **Summary:**  
    Executed a comprehensive forecasting and scenario analysis project using Excel to predict future sales, identify upsell opportunities, and evaluate the impact of pricing and demand changes on revenue for a subscription-based business. The project utilized advanced Excel functions and tools, including Simple Moving Average, Weighted Moving Average, Exponential Smoothing, Scenario Manager, Goal Seek, and Data Tables to generate actionable insights and support strategic business decisions.
